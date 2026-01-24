@@ -11,7 +11,6 @@ The system is *instrumented* with:
 - An optical power meter at the input to the receiver (or the output of the fiber)  
 - A bit error rate (BER) analyzer
 
----
 
 ## Procedure
 
@@ -36,6 +35,27 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 
----
+## Tabulation:
+![IMG_8862](https://github.com/user-attachments/assets/c4b76639-5fe8-4b61-87e3-334389b54e56)
+
+## Graph:
+
+<img width="1131" height="624" alt="image" src="https://github.com/user-attachments/assets/a84ffc64-3f9c-4e7f-968d-99a706582d36" />
+
+
+## Description:
+
+the eye diagram and corresponding Q-factor variation for an optical communication link operating at 2.5 Gb/s with a 193.1 THz laser.
+The eye diagram (left) illustrates signal integrity over multiple iterations, where the eye opening indicates timing margin and noise tolerance.
+Clear eye opening at the sampling instant suggests relatively low intersymbol interference and acceptable system performance.
+The Q-factor plot (right) shows how signal quality varies across the bit period, peaking near the optimal decision point.
+Higher Q values at mid-bit confirm improved signal-to-noise ratio and reliable data detection.
+
+## Result:
+
+The above experiment is executed and output is verified.
+
+
+
 
 
